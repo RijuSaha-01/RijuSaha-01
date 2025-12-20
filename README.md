@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README for Riju Saha
-  - Designed: modern, grid-based, engineering-focused
-  - Replace `rijusaha181124` with your actual GitHub username if different
+  - Paste this directly into your README.md
+  - Username: RijuSaha-01 (used for stats/streaks)
 -->
 
 <div align="center">
@@ -21,8 +21,8 @@ Aspiring AI/ML Engineer | Final-Year BCA Student | Ex-AI/ML Intern @ Kantar — 
   </a>
   <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B91%209873362282-2dce89?style=for-the-badge&logo=phone&logoColor=white"/>
   <img alt="Location" src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-5c6ac4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <a href="https://github.com/rijusaha181124">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rijusaha181124-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/RijuSaha-01">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-RijuSaha--01-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:rijusaha181124@gmail.com">
     <img alt="Hire me" src="https://img.shields.io/badge/Let's%20Talk-Hire%20Me-ff7ab6?style=for-the-badge&logo=rocket"/>
@@ -115,7 +115,7 @@ Aspiring AI/ML Engineer | Final-Year BCA Student | Ex-AI/ML Intern @ Kantar — 
         <div class="skill"><img src="https://skillicons.dev/icons?i=azure" width="28" height="28" alt="azure"/> <div style="font-weight:600">Microsoft Azure</div></div>
         <div class="skill"><img src="https://skillicons.dev/icons?i=docker" width="28" height="28" alt="docker"/> <div style="font-weight:600">Docker</div></div>
         <div class="skill"><img src="https://skillicons.dev/icons?i=git" width="28" height="28" alt="git"/> <div style="font-weight:600">Git</div></div>
-        <div class="skill"><img src="https://skillicons.dev/icons?i=lang" width="28" height="28" alt="langchain" onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=ai'"/> <div style="font-weight:600">LLMs · RAG</div></div>
+        <div class="skill"><img src="https://skillicons.dev/icons?i=openai" width="28" height="28" alt="openai"/> <div style="font-weight:600">LLMs · RAG</div></div>
 
         <div class="skill"><img src="https://skillicons.dev/icons?i=tableau" width="28" height="28" alt="tableau"/> <div style="font-weight:600">Tableau</div></div>
         <div class="skill"><img src="https://skillicons.dev/icons?i=powerbi" width="28" height="28" alt="powerbi"/> <div style="font-weight:600">PowerBI</div></div>
@@ -134,15 +134,15 @@ Aspiring AI/ML Engineer | Final-Year BCA Student | Ex-AI/ML Intern @ Kantar — 
       <div class="headline">GitHub — Snapshot</div>
 
       <!-- GitHub Readme Stats (Tokyonight theme) -->
-      <img alt="Riju's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rijusaha181124&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" style="max-width:100%; border-radius:10px; margin-bottom:10px;"/>
+      <img alt="Riju's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RijuSaha-01&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" style="max-width:100%; border-radius:10px; margin-bottom:10px;"/>
 
       <!-- Top Languages -->
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijusaha181124&layout=compact&theme=tokyonight&hide_title=true" style="max-width:100%; border-radius:10px;"/>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijuSaha-01&layout=compact&theme=tokyonight&hide_title=true" style="max-width:100%; border-radius:10px;"/>
 
       <br/><br/>
 
       <!-- Streak -->
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=rijusaha181124&theme=tokyonight&border_radius=10" style="max-width:100%; border-radius:10px;"/>
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=RijuSaha-01&theme=tokyonight&border_radius=10" style="max-width:100%; border-radius:10px;"/>
     </div>
 
     <br/>
@@ -178,19 +178,19 @@ Aspiring AI/ML Engineer | Final-Year BCA Student | Ex-AI/ML Intern @ Kantar — 
 
 <!-- Footer: call-to-action & links -->
 <div align="center" style="margin-top:18px">
-  <a href="https://github.com/rijusaha181124?tab=repositories">
+  <a href="https://github.com/RijuSaha-01?tab=repositories">
     <img alt="Top Repos" src="https://img.shields.io/badge/Explore%20Repositories-See%20Projects-0ea5e9?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
-  <a href="https://github.com/rijusaha181124">
-    <img alt="Follow" src="https://img.shields.io/github/followers/rijusaha181124?label=Follow&style=social"/>
+  <a href="https://github.com/RijuSaha-01">
+    <img alt="Follow" src="https://img.shields.io/github/followers/RijuSaha-01?label=Follow&style=social"/>
   </a>
 </div>
 
 ---
 
 ### Quick Notes (for maintainers)
-- If your GitHub username differs from `rijusaha181124`, replace all instances of `rijusaha181124` in the image URLs with your actual username to render stats/streaks properly.
+- If your GitHub username differs from `RijuSaha-01`, replace all instances of `RijuSaha-01` in the image URLs with your actual username to render stats/streaks properly.
 - The typing SVG is configured to cycle multiple role lines — adjust `lines=` in the image URL to change text or ordering.
 - Skill icons come from `skillicons.dev`. You can add/remove/replace icons by editing the `<img src="https://skillicons.dev/icons?i=<tech>">` entries.
 
