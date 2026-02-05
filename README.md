@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 **Professional Summary**
+### 👨‍💻 **Professional Summary**hi
 I am a **Final-Year BCA Student** and aspiring Data Scientist passionate about building intelligent, data-driven solutions. My expertise lies in **Deep Learning (TensorFlow, PyTorch)** and executing end-to-end machine learning pipelines.
 
 I specialize in **Generative AI**, moving beyond theory to orchestrate enterprise-grade **RAG architectures** and scalable **microservices** on Microsoft Azure.
