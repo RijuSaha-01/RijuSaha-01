@@ -100,7 +100,7 @@ I specialize in **Generative AI**, moving beyond theory to orchestrate enterpris
 
 ---
 
-### 🏆 Credentials & Career Simulation
+### 🏆 Credentials & Career Simulations
 
 <table border="0" align="center">
   <tr>
