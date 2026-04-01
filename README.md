@@ -31,7 +31,7 @@ I specialize in **Generative AI**, moving beyond theory to orchestrate enterpris
 * **Backend Engineering:** Built and containerized scalable **Flask microservices** to serve AI models via RESTful APIs.
 * **Optimization:** Implemented **Cross-Encoder re-ranking** to significantly boost retrieval accuracy in RAG systems.
 
-#### 🔹 **Virtual Data Analyst | Deloitte & Tata Group**
+#### 🔹 **Virtual Data Analyst | Deloitte & Tata Groups**
 > *Mar 2025 - Apr 2025*
 * **Deloitte:** Conducted forensic data analysis and created dashboards using **Tableau**.
 * **Tata Group:** Enhanced business insights through visual analytics and statistical interpretation using **Power BI**.
