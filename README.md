@@ -23,7 +23,7 @@ I specialize in **Generative AI**, moving beyond theory to orchestrate enterpris
 
 ---
 
-### 💼 **Experience & **
+### 💼 **Experience & Simulations **
 
 #### 🔹 **AI/ML Intern | Kantar** *(Bangalore)*
 > *June 2025 - Sept 2025*
