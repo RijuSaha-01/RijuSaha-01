@@ -38,7 +38,7 @@ I specialize in **Generative AI**, moving beyond theory to orchestrate enterpris
 
 ---
 
-### 🚀 **Featured Engineering **
+### 🚀 **Featured Engineering**
 
 <table border="0">
   <tr>
