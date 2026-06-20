@@ -73,7 +73,7 @@ I specialize in **Generative AI**, moving beyond theory to orchestrate enterpris
 
 ---
 
-### 🛠️ **Technical Arsenal**
+### 🛠️ **Technical Arsenals**
 
 <table align="center">
   <tr>
